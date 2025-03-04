@@ -7,6 +7,7 @@ Este é um aplicativo simples e divertido para converter coordenadas UTM (Univer
 ## Funcionalidades 🌟
 
 - **Conversão de Coordenadas**: Converte facilmente coordenadas UTM para graus, minutos e segundos. 📍➡️🌍
+- **Mapa integrado OSM**: A API da open street map de forma gratuita disponibiliza um mapa da cordenada gerada 🗺️🗺️
 - **Simples e Intuitivo**: O aplicativo é fácil de usar, ideal tanto para iniciantes quanto para experientes. 😊👨‍💻👩‍💻
 
 ## Tecnologias Utilizadas 💻
