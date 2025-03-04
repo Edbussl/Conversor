@@ -1,0 +1,25 @@
+.image-container {
+    position: relative;
+    width: 150px; /* Mantendo o tamanho original */
+    height: 150px;
+    margin-bottom: -50px; /* Ajuste para sobreposição */
+}
+
+.image-container img {
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.image-container img:first-child {
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+.image-container img:last-child {
+    top: 15px;
+    left: 20px;
+    z-index: 1;
+    opacity: 0.9;
+}
