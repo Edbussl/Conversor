@@ -4,6 +4,8 @@
 
 Este é um aplicativo simples e divertido para converter coordenadas UTM (Universal Transverse Mercator) para coordenadas geográficas (graus). O aplicativo é inspirado na adorável personagem Moranguinho, de 2003, trazendo um visual fofo e nostálgico para a experiência de conversão de coordenadas. 🌸🍓
 
+Baseado no site do Governo: https://sigam.ambiente.sp.gov.br/sigam3/Controles/latlongutm.htm?latTxt=ctl00_con
+
 ## Funcionalidades 🌟
 
 - **Conversão de Coordenadas**: Converte facilmente coordenadas UTM para graus, minutos e segundos. 📍➡️🌍
